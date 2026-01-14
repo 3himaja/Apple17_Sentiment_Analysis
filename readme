@@ -1,2 +1,2 @@
-1. Please run the signal_scoop.py first for phase 1 in google colab.
-2. For phase 3, please run app.py in google colab.
+1. Please run the signal_scoop.py first for phase 1 (signal scoop API) in google colab.
+2. For phase 3 (pulse portal on gradio) , please run app.py in google colab.
